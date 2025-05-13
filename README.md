@@ -43,9 +43,3 @@
   </div>
 </body>
 </html>
-        };
-    </script>
-</head>
-<body>
-</body>
-</html>

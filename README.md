@@ -41,5 +41,4 @@
 
     <p class="warning">WARNING: Keep this code safe. Anyone with access to it can control your digital vault.</p>
   </div>
-</body>
-</html>
+
